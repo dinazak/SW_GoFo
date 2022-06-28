@@ -1,0 +1,21 @@
+content:
+
+1. Final Draft.pdf
+    - this pdf contains class diagram, sequence diagram and state diagram.
+2. codes:
+    1- the implementaion of the classes.
+    2- github.pdf:
+	- contains the screenshots of github repository.
+
+TOOLS:
+
+1. Final Draft.pdf
+    - visual paradigm
+    - Word
+3. Codes.file
+    1- for the codes we used:
+        - netBeans
+        - intelliJ
+    2- for github.pdf we used
+	- word
+	- github
